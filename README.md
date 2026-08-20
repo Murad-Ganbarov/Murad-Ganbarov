@@ -1,5 +1,5 @@
 ## Hi there 👋
-![DevTrack Rating](http://2.26.140.30/api/user/c53cc182-4fde-4468-b7e0-5782ccbbcc1f/rating-badge)
+[![DevTrack Rating](http://2.26.140.30/api/user/c53cc182-4fde-4468-b7e0-5782ccbbcc1f/rating-badge)](http://2.26.140.30/users/c53cc182-4fde-4468-b7e0-5782ccbbcc1f)
 
 <!--
 **Murad-Ganbarov/Murad-Ganbarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
